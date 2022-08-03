@@ -1,0 +1,36 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1927b808_002Df318_002D43c9_002D97bf_002Dbd819cf200f1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="VideoStoreTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::7FFF07C0-A576-49C0-A88A-774377A98E01::net6.0::TestVideoStore.VideoStoreTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5bbbdb75_002Db89e_002D4c16_002Da120_002Dbb9f868c9771/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="VideoStoreTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::7FFF07C0-A576-49C0-A88A-774377A98E01::net6.0::TestVideoStore.VideoStoreTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=890ad071_002Da8c7_002D49f9_002Db736_002Db126f49ddf9f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestSingleNewReleaseStatement #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::7FFF07C0-A576-49C0-A88A-774377A98E01::net6.0::TestVideoStore.VideoStoreTests.TestSingleNewReleaseStatement&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=94d8c37c_002D4900_002D4f86_002D81b2_002D3879b6280e95/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestSingleNewReleaseStatement #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::7FFF07C0-A576-49C0-A88A-774377A98E01::net6.0::TestVideoStore.VideoStoreTests.TestSingleNewReleaseStatement&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9ed6a326_002D6776_002D4821_002Dbfd1_002D6a45e7ff0790/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestSingleNewReleaseStatement #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::7FFF07C0-A576-49C0-A88A-774377A98E01::net6.0::TestVideoStore.VideoStoreTests.TestSingleNewReleaseStatement&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e14706b9_002D1c3e_002D49d9_002D9b3f_002D2e12b009e3a7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="VideoStoreTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::7FFF07C0-A576-49C0-A88A-774377A98E01::net6.0::TestVideoStore.VideoStoreTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f8a009b1_002D1097_002D4ea8_002D9975_002D434363de142a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestSingleNewReleaseStatement" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::7FFF07C0-A576-49C0-A88A-774377A98E01::net6.0::TestVideoStore.VideoStoreTests.TestSingleNewReleaseStatement&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,15 @@
+/Users/milad/RiderProjects/VideoStoreCleanCode/VideoStore/bin/Debug/net6.0/VideoStore
+/Users/milad/RiderProjects/VideoStoreCleanCode/VideoStore/bin/Debug/net6.0/VideoStore.deps.json
+/Users/milad/RiderProjects/VideoStoreCleanCode/VideoStore/bin/Debug/net6.0/VideoStore.runtimeconfig.json
+/Users/milad/RiderProjects/VideoStoreCleanCode/VideoStore/bin/Debug/net6.0/VideoStore.dll
+/Users/milad/RiderProjects/VideoStoreCleanCode/VideoStore/bin/Debug/net6.0/VideoStore.pdb
+/Users/milad/RiderProjects/VideoStoreCleanCode/VideoStore/obj/Debug/net6.0/VideoStore.csproj.AssemblyReference.cache
+/Users/milad/RiderProjects/VideoStoreCleanCode/VideoStore/obj/Debug/net6.0/VideoStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milad/RiderProjects/VideoStoreCleanCode/VideoStore/obj/Debug/net6.0/VideoStore.AssemblyInfoInputs.cache
+/Users/milad/RiderProjects/VideoStoreCleanCode/VideoStore/obj/Debug/net6.0/VideoStore.AssemblyInfo.cs
+/Users/milad/RiderProjects/VideoStoreCleanCode/VideoStore/obj/Debug/net6.0/VideoStore.csproj.CoreCompileInputs.cache
+/Users/milad/RiderProjects/VideoStoreCleanCode/VideoStore/obj/Debug/net6.0/VideoStore.dll
+/Users/milad/RiderProjects/VideoStoreCleanCode/VideoStore/obj/Debug/net6.0/refint/VideoStore.dll
+/Users/milad/RiderProjects/VideoStoreCleanCode/VideoStore/obj/Debug/net6.0/VideoStore.pdb
+/Users/milad/RiderProjects/VideoStoreCleanCode/VideoStore/obj/Debug/net6.0/VideoStore.genruntimeconfig.cache
+/Users/milad/RiderProjects/VideoStoreCleanCode/VideoStore/obj/Debug/net6.0/ref/VideoStore.dll
